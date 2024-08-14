@@ -7,7 +7,7 @@ Welcome to my Data Science Internship Portfolio! In this repository, you will fi
 
 # Iris Flower Classification 
 
-Welcome to the Iris Flower Classification project! This project aims to classify iris flowers into one of three species (Setosa, Versicolor, Virginica) based on their sepal and petal measurements. I have achieved an *accuracy of 96% in training the dataset*. 
+Welcome to the Iris Flower Classification project! This project aims to classify iris flowers into one of three species (Setosa, Versicolor, Virginica) based on their sepal and petal measurements. I have achieved an **accuracy of 96% in training the dataset**. 
 
 ## Overview
 
