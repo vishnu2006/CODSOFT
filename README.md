@@ -7,7 +7,7 @@ Iris Flower Classification Description: The Iris Flower Classification project i
 
 # Iris Flower Classification 
 
-Welcome to the Iris Flower Classification project! This project aims to classify iris flowers into one of three species (Setosa, Versicolor, Virginica) based on their sepal and petal measurements. I have achieved an **accuracy of 96% in training the dataset**. 
+Welcome to the Iris Flower Classification project! This project aims to classify iris flowers into one of three species (Setosa, Versicolor, Virginica) based on their sepal and petal measurements. I have achieved an **accuracy of 96.67% in training the dataset**. I have used two of the popular machine learning models K-nearest neighbor and logistic regression.
 
 ## Overview
 
