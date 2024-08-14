@@ -3,11 +3,11 @@
 Welcome to my Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at Codsoft. Each project showcases my skills in data analysis, machine learning, and problem-solving. Below is a summary of the projects:
 
 
-1) Iris Flower Classification Description: The Iris Flower Classification project is a classic machine learning task. It involves using the Iris dataset to classify iris flowers into different species based on their sepal and petal measurements.
+Iris Flower Classification Description: The Iris Flower Classification project is a classic machine learning task. It involves using the Iris dataset to classify iris flowers into different species based on their sepal and petal measurements.
 
 # Iris Flower Classification 
 
-Welcome to the Iris Flower Classification project! This project aims to classify iris flowers into one of three species (Setosa, Versicolor, Virginica) based on their sepal and petal measurements. I have achieved an **accuracy of 96% in training the dataset**. 
+Welcome to the Iris Flower Classification project! This project aims to classify iris flowers into one of three species (Setosa, Versicolor, Virginica) based on their sepal and petal measurements. I have achieved an # **accuracy of 96% in training the dataset**. 
 
 ## Overview
 
